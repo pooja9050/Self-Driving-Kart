@@ -1,5 +1,5 @@
 # Self-Driving-Kart
-Simulate an autonomous vehicle environment with a virtual agent to navigate in a self-driving kart mode using Machine Learning
+
 
 **Author** : Pooja Madhup
 
